@@ -6,7 +6,7 @@ Forward Elephants delivers logistics solutions for cargo, containers, and transp
 
 <h3>🖼 Preview</h3>
 
-![forweleph](https://github.com/oscar223Po/forward-elephants/assets/99406219/c95dc49a-7d51-4eb5-9b48-af2aa49b5693)
+<img width="1430" height="814" alt="Screen Shot 2025-09-05 at 10 44 05 PM" src="https://github.com/user-attachments/assets/8c7c8565-f0c9-4798-98b5-1db5e6476899" />
 
 ---
 
